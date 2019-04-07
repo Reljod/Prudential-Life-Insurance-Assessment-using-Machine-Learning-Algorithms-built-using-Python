@@ -69,3 +69,6 @@ Insurance_History_5, Family_Hist_2, Family_Hist_3, Family_Hist_4, Family_Hist_5
 Medical_History_1, Medical_History_10, Medical_History_15, Medical_History_24, Medical_History_32
 ### The following variables are dummy variables:
 Medical_Keyword_1-48 are dummy variables.
+
+## Jupyter Notebook
+The whole project is in this [Jupyter Notebook](https://github.com/Reljod/Prudential-Life-Insurance-Assessment-using-Machine-Learning-Algorithms-built-using-Python/blob/master/Prudential.ipynb)
